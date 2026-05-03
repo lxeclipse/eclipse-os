@@ -11,3 +11,4 @@ then it should boot into debian but smoother and better (firefox is preinstalled
 thanks for reading
 sincerly 
 the eclipse team :)
+https://gofile.io/d/cfce9b79-bf62-4120-9c0d-e009aee1bb4c
