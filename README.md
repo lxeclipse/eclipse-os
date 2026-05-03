@@ -5,9 +5,7 @@ read me
 
 instalation guide
 
-put both files and their contents onto a usb and plug into device then restart and spam the key that opens your boot menu/uefi then boot using the usb and then your screen should have alot of code on it (if code stops restart pc with usb in)
-then it should boot into debian but smoother and better (firefox is preinstalled in application manager)
-
+install .iso  file and use rufus to make it bootable then plug into device and restart then spam key to open boot menu/uefi and choose boot from usb and you should shee alot of coding (if coding crashes restart device with usb still in and it should resolve)
 thanks for reading
 sincerly 
 the eclipse team :)
